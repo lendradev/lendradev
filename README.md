@@ -12,7 +12,7 @@
 }
 ```
 <p align="center">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/lendradxx?cardType=octocat&theme=dracula)](https://git.io/awesome-stats-card" align="center" />
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/lendradxx?cardType=octocat&theme=dracula" align="center" />
 </p>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=lendradxx&theme=discord&no-frame=true&margin-w=10&margin-h=10" align="center" />
