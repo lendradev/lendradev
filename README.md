@@ -2,7 +2,7 @@
 {
     "Name": "Lendra",
     "Country": "Indonesia",
-    "About": "a person who love to code and designing",
+    "About": "A person who love to code and designing some web or an application",
     "Social Media": {
         "Instagram": "@lendradxx",
         "Twitter": "@lendradxx",
