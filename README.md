@@ -11,4 +11,4 @@
     }
 }
 ```
-<img src="https://github.com/lendradxx/lendradxx/blob/assets/snake.svg?raw" />
+<img src="https://github.com/lendradxx/lendradxx/blob/assets/snake.svg?raw" align="center" />
