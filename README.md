@@ -1,7 +1,7 @@
 ```json
 {
     "Name": "Lendra",
-    "Pronounce": "he",
+    "Pronounce": "He / Him",
     "Country": "Indonesia",
     "About": "A person who love to code and designing some web or an application",
     "Social Media": {
