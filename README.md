@@ -28,7 +28,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/ForumLinuxIndonesia/gacha-react-fe/pull/2) in [ForumLinuxIndonesia/gacha-react-fe](https://github.com/ForumLinuxIndonesia/gacha-react-fe)
+1. ❗️ Opened issue [#1](https://github.com/lendradxx/gitfetch/issues/1) in [lendradxx/gitfetch](https://github.com/lendradxx/gitfetch)
 2. ❗️ Opened issue [#1](https://github.com/lendradxx/reboisasi/issues/1) in [lendradxx/reboisasi](https://github.com/lendradxx/reboisasi)
 3. ❗️ Closed issue [#1](https://github.com/ForumLinuxIndonesia/gacha-ui/issues/1) in [ForumLinuxIndonesia/gacha-ui](https://github.com/ForumLinuxIndonesia/gacha-ui)
 4. 🗣 Commented on [#1](https://github.com/ForumLinuxIndonesia/gacha-ui/issues/1) in [ForumLinuxIndonesia/gacha-ui](https://github.com/ForumLinuxIndonesia/gacha-ui)
