@@ -28,9 +28,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/lendradxx/gitfetch/issues/1) in [lendradxx/gitfetch](https://github.com/lendradxx/gitfetch)
-2. ❗️ Opened issue [#1](https://github.com/lendradxx/reboisasi/issues/1) in [lendradxx/reboisasi](https://github.com/lendradxx/reboisasi)
-3. ❗️ Closed issue [#1](https://github.com/ForumLinuxIndonesia/gacha-ui/issues/1) in [ForumLinuxIndonesia/gacha-ui](https://github.com/ForumLinuxIndonesia/gacha-ui)
+1. 🎉 Merged PR [#1](https://github.com/wibucodedev/aniquote/pull/1) in [wibucodedev/aniquote](https://github.com/wibucodedev/aniquote)
+2. 💪 Opened PR [#1](https://github.com/wibucodedev/aniquote/pull/1) in [wibucodedev/aniquote](https://github.com/wibucodedev/aniquote)
+3. ❗️ Opened issue [#1](https://github.com/lendradxx/gitfetch/issues/1) in [lendradxx/gitfetch](https://github.com/lendradxx/gitfetch)
 4. 🗣 Commented on [#1](https://github.com/ForumLinuxIndonesia/gacha-ui/issues/1) in [ForumLinuxIndonesia/gacha-ui](https://github.com/ForumLinuxIndonesia/gacha-ui)
 <!--END_SECTION:activity-->
 
