@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://github.com/lendradxx">
-    <img src="https://skillicons.dev/icons?i=linux,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=linux,git,vscode,github,figma" />
   </a>
 </p>
    
