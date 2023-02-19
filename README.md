@@ -20,8 +20,6 @@
    
 ---
 
-<iframe src="https://google.com"></iframe>
-
 <img src="https://github.com/lendradxx/lendradxx/blob/assets/snake.svg?raw" align="center" />
 </p>
 
