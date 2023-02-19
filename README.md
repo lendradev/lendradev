@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://github.com/lendradxx">
-    <img src="https://skillicons.dev/icons?i=flutter,tauri,gtk,qt,git,vscode,docker,androidstudio,idea,figma,linux,react,electron,tailwind,nodejs,html,css,js,ts,sass,rust,go,nim,py,v,cpp,c,arduino,cs,angular,svelte,lua,md,github,vala,vite,vue,zig,scala,ruby,kotlin,java" />
+    <img src="https://skillicons.dev/icons?i=flutter,tauri,gtk,qt,git,vscode,docker,androidstudio,idea,figma,linux,react,electron,tailwind,nodejs,html,css,js,ts,sass,rust,go,nim,py,v,cpp,c,arduino,cs,angular,svelte,lua,md,github,vala,vite,vue,zig,scala,ruby,kotlin,java,c,cpp,gitlab" />
   </a>
 </p>
    
