@@ -2,7 +2,7 @@
 {
     "Name": "Lendra",
     "Pronouns": "He / Him",
-    "Country": "Indonesia",
+    "Country": "N/A",
     "About": "A person who love to code and designing some web or an application",
     "Social Media": {
         "Instagram": "@lendradxx",
