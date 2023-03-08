@@ -17,13 +17,11 @@ A person who love to code and designing some web or an application
 ---
 
 <details>
-<summary><h1>📊 Github Stats</h1></summary>
+<summary><h3>📊 Github Stats</h3></summary>
 <p align="center">
-
-<a href="https://github.com/lendradxx"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lendradxx&layout=compact&theme=tokyonight" alt="Top Language" /></a>
-<a href="https://github.com/lendradxx"><img src="https://github-readme-stats.vercel.app/api?username=lendradxx&theme=tokyonight&show_icons=true" alt="Top Language" /></a>
+  <a href="https://github.com/lendradxx"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lendradxx&layout=compact&theme=tokyonight" alt="Top Language" /></a>
+  <a href="https://github.com/lendradxx"><img src="https://github-readme-stats.vercel.app/api?username=lendradxx&theme=tokyonight&show_icons=true" alt="Top Language" /></a>
 </p>
-
 </details>
 
 ---
