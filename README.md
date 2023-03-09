@@ -12,7 +12,7 @@
 }
 ``` -->
 
-[![Banner Top](https://github.com/lendradxx/lendradxx/blob/master/assets/banner-top.png)](https://github.com/lendradxx)
+[![Banner](https://github.com/lendradxx/lendradxx/blob/master/assets/banner-top.png)](https://github.com/lendradxx)
 
 A person who love to code and designing some web or an application
 
