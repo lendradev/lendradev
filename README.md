@@ -14,9 +14,9 @@
   </a>
 </p> -->
 
-<p>
+<!-- <p>
 <img src="https://github.com/lendradxx/lendradxx/blob/assets/snake.svg?raw" align="center" />
-</p>
+</p> -->
 
 ---
 
