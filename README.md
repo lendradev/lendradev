@@ -18,8 +18,6 @@
 <img src="https://github.com/lendradxx/lendradxx/blob/assets/snake.svg?raw" align="center" />
 </p> -->
 
----
-
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
