@@ -13,8 +13,7 @@
     <img src="https://skillicons.dev/icons?i=flutter,tauri,gtk,qt,git,vscode,docker,androidstudio,idea,figma,linux,react,electron,tailwind,nodejs,html,css,js,ts,sass,rust,go,nim,py,v,cpp,c,cs,angular,svelte,lua,md,github,vala,vite,vue,zig,scala,ruby,kotlin,java,gitlab,scala,swift,perl,ocaml,bash,deno,dotnet,godot,ember,laravel,php,rocket,vercel,mysql,mongodb,redis,cloudflare,dart" />
   </a>
 </p> -->
-   
----
+
 <p>
 <img src="https://github.com/lendradxx/lendradxx/blob/assets/snake.svg?raw" align="center" />
 </p>
