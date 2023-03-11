@@ -4,9 +4,9 @@
 
 <h3 align="center">Follow me on</h3>
 <p align="center">
-  <a href="https://instagram.com/lendradxx"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" width="64"></a>
-  <a href="https://twitter.com/lendradxx"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" width="64"></a>
-  <a href="https://showwcase.com/lendradxx"><img align="center" src="https://github.com/lendradxx/lendradxx/blob/master/assets/showwcase-new.svg" width="64px"></a>
+  <a href="https://instagram.com/lendradxx"><img align="center" src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="64px"></a>
+  <a href="https://twitter.com/lendradxx"><img align="center" src="https://www.svgrepo.com/show/452121/twitter-1.svg" width="64px"></a>
+  <a href="https://github.com/lendradxx"><img align="center" src="https://www.svgrepo.com/show/452211/github.svg" width="64px"></a>
 </p>
 
 ---
