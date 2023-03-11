@@ -2,7 +2,10 @@
 
 ---
 
-<h2 align="center">Follow me on</h2>
+<h3 align="center">Follow me on</h3>
+<p align="center">
+  <a href="https://instagram.com/lendradxx"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg"></a>
+</p>
 
 ---
 
