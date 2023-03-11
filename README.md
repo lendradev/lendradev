@@ -7,6 +7,7 @@
   <a href="https://instagram.com/lendradxx"><img align="center" src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="64px"></a>
   <a href="https://twitter.com/lendradxx"><img align="center" src="https://www.svgrepo.com/show/452121/twitter-1.svg" width="64px"></a>
   <a href="https://github.com/lendradxx"><img align="center" src="https://www.svgrepo.com/show/452211/github.svg" width="64px"></a>
+  <a href="https://showwcase.com/lendradxx"><img align="center" src="https://assets.showwcase.com/landing-page/svg/logo.svg" width="64px"></a>
 </p>
 
 ---
