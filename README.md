@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://github.com/lendradxx"><img align="left" src="https://profile-counter.glitch.me/lendradxx/count.svg" /></a>
-  <a href="https://instagram.com/lendradxx"><img align="right" src="https://img.shields.io/badge/@lendradxx-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://instagram.com/lendradxx"><img src="https://img.shields.io/badge/@lendradxx-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://twitter.com/lendradxx"><img align="right" src="https://img.shields.io/badge/@lendradxx-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
