@@ -1,5 +1,7 @@
 [![Banner](https://github.com/lendradxx/lendradxx/blob/master/assets/banner-top.png)](https://github.com/lendradxx)
 
+<img align="center" src="https://profile-counter.glitch.me/lendradxx/count.svg" />
+
 <!-- ---
 
 <h3 align="center">Follow me on</h3>
