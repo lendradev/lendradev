@@ -4,11 +4,12 @@
 <a href="https://github.com/lendradxx"><img align="left" src="https://profile-counter.glitch.me/lendradxx/count.svg" /></a>
 </p>
 <p align="right">
-<a href="https://instagram.com/lendradxx"><img align="center" src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="32px"></a>
-<a href="https://twitter.com/lendradxx"><img align="center" src="https://www.svgrepo.com/show/452121/twitter-1.svg" width="32px"></a>
+<a href="https://instagram.com/lendradxx"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" width="32px"></a>
+<a href="https://twitter.com/lendradxx"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" width="32px"></a>
 <a href="https://gitlab.com/lendradxx"><img align="center"src="https://github.com/tandpfun/skill-icons/raw/main/icons/GitLab-Dark.svg" width="32px" /></a>
 <a href="https://dev.to/lendradxx"><img align="center"src="https://github.com/tandpfun/skill-icons/raw/main/icons/DevTo-Dark.svg" width="32px" /></a>
 <a href="https://youtube.com/@lendradxx"><img align="center"src="https://www.svgrepo.com/show/448261/youtube.svg" width="32px" /></a>
+<a href="mailto:contact@lendra.eu.org"><img src="https://www.svgrepo.com/show/349354/email.svg" width="32px" /></a>
 </p>
 
 <!-- ---
