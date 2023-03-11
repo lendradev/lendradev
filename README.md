@@ -2,6 +2,10 @@
 
 ---
 
+<h2 align="center">Follow me on</h2>
+
+---
+
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=lendradxx&theme=discord&no-frame=true&margin-w=10&margin-h=10" align="center" />
 </p>
