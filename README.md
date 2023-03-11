@@ -2,7 +2,7 @@
 
 <a href="https://github.com/lendradxx"><img align="left" src="https://profile-counter.glitch.me/lendradxx/count.svg" /></a>
 <a href="https://instagram.com/lendradxx"><img align="right" src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="32px"></a>
-<a href="https://twitter.com/lendradxx"><img align="right" src="https://www.svgrepo.com/show/452121/twitter-1.svg" width="32px"></a>
+<a href="https://twitter.com/lendradxx"><img align="" src="https://www.svgrepo.com/show/452121/twitter-1.svg" width="32px"></a>
 
 <!-- ---
 
