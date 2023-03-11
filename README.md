@@ -4,8 +4,13 @@
 
 <h3 align="center">Follow me on</h3>
 <p align="center">
-  <a href="https://instagram.com/lendradxx"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" width="32px"></a>
-  <a href="https://instagram.com/lendradxx"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" width="32px"></a>
+  <a href="https://instagram.com/lendradxx">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/506668/instagram.svg" width="32px">
+      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" width="32px">
+    </picture>  
+  </a>
+  <a href="https://instagram.com/lendradxx"><img src="https://www.svgrepo.com/show/475689/twitter-color.svg" width="32px"></a>
   <a href="https://github.com/lendradxx"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" width="32px"></a>
 </p>
 
