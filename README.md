@@ -1,17 +1,14 @@
 [![Banner](https://github.com/lendradxx/lendradxx/blob/master/assets/banner-top.png)](https://github.com/lendradxx)
 
 <a href="https://github.com/lendradxx"><img align="left" src="https://profile-counter.glitch.me/lendradxx/count.svg" /></a>
-<a href="https://instagram.com/lendradxx"><img align="right" src="https://img.shields.io/badge/@lendradxx-E4405F?style=plastic&logo=instagram&logoColor=white" /></a>
-<a href="https://twitter.com/lendradxx"><img align="right" src="https://img.shields.io/badge/@lendradxx-1DA1F2?style=plastic&logo=twitter&logoColor=white" /></a>
+<a href="https://instagram.com/lendradxx"><img align="right" src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="32px"></a>
+<a href="https://twitter.com/lendradxx"><img align="right" src="https://www.svgrepo.com/show/452121/twitter-1.svg" width="32px"></a>
 
 <!-- ---
 
 <h3 align="center">Follow me on</h3>
 <p align="center">
-  <a href="https://instagram.com/lendradxx"><img align="center" src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="64px"></a>
-  <a href="https://twitter.com/lendradxx"><img align="center" src="https://www.svgrepo.com/show/452121/twitter-1.svg" width="64px"></a>
-  <a href="https://github.com/lendradxx"><img align="center" src="https://www.svgrepo.com/show/452211/github.svg" width="64px"></a>
-  <a href="https://showwcase.com/lendradxx"><img align="center" src="https://assets.showwcase.com/landing-page/svg/logo.svg" width="64px"></a>
+  
 </p>
 
 --- -->
