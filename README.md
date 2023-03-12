@@ -6,11 +6,13 @@
 <p align="right">
 <a href="https://instagram.com/lendradxx"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" width="32px"></a>
 <a href="https://twitter.com/lendradxx"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" width="32px"></a>
-<a href="https://gitlab.com/lendradxx"><img align="center"src="https://github.com/tandpfun/skill-icons/raw/main/icons/GitLab-Dark.svg" width="32px" /></a>
 <a href="https://dev.to/lendradxx"><img align="center"src="https://github.com/tandpfun/skill-icons/raw/main/icons/DevTo-Dark.svg" width="32px" /></a>
 <a href="https://youtube.com/@lendradxx"><img align="center"src="https://www.svgrepo.com/show/349577/youtube.svg" width="32px" /></a>
 <a href="mailto:me@lendra.eu.org"><img align="center" src="https://www.svgrepo.com/show/349354/email.svg" width="32px" /></a>
 </p>
+
+<!-- 
+<a href="https://gitlab.com/lendradxx"><img align="center"src="https://github.com/tandpfun/skill-icons/raw/main/icons/GitLab-Dark.svg" width="32px" /></a> -->
 
 <!-- ---
 
