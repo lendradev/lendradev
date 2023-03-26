@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-<a href="https://github.com/lendradxx"><img align="center" src="https://github-profile-trophy.vercel.app/?username=lendradxx&no-bg=false&no-frame=true" /></a>
+<a href="https://github.com/lendradxx"><img align="center" src="https://github-profile-trophy.vercel.app/?username=lendradxx&no-bg=true&no-frame=true&column=3" /></a>
 </p>
 
 <p align="right">
