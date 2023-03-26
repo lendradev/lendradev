@@ -10,8 +10,11 @@
 <a href="mailto:me@lendra.eu.org"><img align="center" src="https://www.svgrepo.com/show/349354/email.svg" width="32px" /></a>
 </p>
 
+<p align="center">
+
 [![Metrics](https://raw.githubusercontent.com/lendradxx/metrics/main/github-metrics.svg)](https://github.com/lendradxx)
 
+</p>
 
 <!-- 
 <a href="https://gitlab.com/lendradxx"><img align="center"src="https://github.com/tandpfun/skill-icons/raw/main/icons/GitLab-Dark.svg" width="32px" /></a> -->
