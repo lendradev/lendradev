@@ -13,7 +13,7 @@
 ---
 
 <p align="left">
-<a href="https://github.com/lendradxx"><img align="left" src="https://github-profile-trophy.vercel.app/?username=lendradxx&no-frame=true&column=1" /></a>
+<a href="https://github.com/lendradxx"><img align="left" src="https://github-profile-trophy.vercel.app/?username=lendradxx&no-frame=true&column=12" /></a>
 </p>
 
 <p align="right">
