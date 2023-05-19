@@ -4,7 +4,7 @@
 <a href="https://github.com/lendradxx"><img align="left" src="https://profile-counter.glitch.me/lendradxx/count.svg" /></a>
 </p>
 <p align="right">
-<a href="https://www.linkedin.com/in/lendradxx"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" width="32px" /></a>
+<a href="https://www.linkedin.com/in/lendradxx"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" width="32px" /></a>
 <a href="https://instagram.com/lendradxx"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" width="32px"></a>
 <a href="https://twitter.com/lendradxx"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" width="32px"></a>
 <a href="https://youtube.com/@lendradxx"><img align="center" src="https://www.svgrepo.com/show/349577/youtube.svg" width="32px" /></a>
