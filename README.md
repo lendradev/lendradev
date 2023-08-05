@@ -12,6 +12,8 @@
 </p>
 
 ---
+<img src="https://github-readme-stats.vercel.app/api?username=lendradxx&theme=react&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lendradxx&theme=react&layout=donut&langs_count=5&custom_title=Top%205%20Used%20Languages" />
 <!-- 
 <p align="left">
 <a href="https://github.com/lendradxx"><img align="left" src="https://github-profile-trophy.vercel.app/?username=lendradxx&no-bg=true&no-frame=true&column=3" /></a>
