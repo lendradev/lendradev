@@ -2,16 +2,16 @@
   <a href="https://github.com/lendradxx">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lendradxx/lendradxx/blob/master/assets/banner-dark.png">
-      <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github.com/lendradxx/lendradxx/blob/master/assets/banner-light.png">
+      <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github.com/lendradxx/lendradxx/blob/master/assets/banner-light.webp">
     </picture>
   </a>
 </p>
 
 <!-- <p align="center">
 <a href="https://github.com/lendradxx"><img src="https://u8views.com/api/v1/github/profiles/84779163/views/day-week-month-total-count.svg"></a>
-</p>
+</p> -->
 
----
+<!-- ---
 
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=lendradxx&theme=react&show_icons=true&hide_border=true" />
@@ -39,7 +39,7 @@
 
 --- -->
 
-## <!--
+<!-- ---
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lendradxx&theme=react-dark&hide_border=true&radius=8&hide_title=true" align="center" />
