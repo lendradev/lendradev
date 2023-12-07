@@ -1,5 +1,10 @@
 <p align="center">
-  <a href="https://github.com/lendradxx"><img src="https://github.com/lendradxx/lendradxx/blob/master/github-header-image.png" /></a>
+  <a href="https://github.com/lendradxx">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lendradxx/lendradxx/blob/master/assets/banner-dark.webp">
+      <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github.com/lendradxx/lendradxx/blob/master/assets/banner-light.webp">
+    </picture>
+  </a>
 </p>
 
 <p align="center">
@@ -7,12 +12,13 @@
 </p>
 
 ---
+
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=lendradxx&theme=react&show_icons=true&hide_border=true" />
 <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lendradxx&theme=react&layout=donut&langs_count=5&custom_title=Top%205%20Used%20Languages&hide_border=true" />
 </p>
 
-<!-- 
+<!--
 <p align="left">
 <a href="https://github.com/lendradxx"><img align="left" src="https://github-profile-trophy.vercel.app/?username=lendradxx&no-bg=true&no-frame=true&column=3" /></a>
 </p>
