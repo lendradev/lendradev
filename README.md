@@ -7,9 +7,9 @@
   </a>
 </p>
 
-# Hello there 👋
+# Hello there 👋, I'm Lendra
 
-<b>I'm Lendra</b> - I'm a software developer, web designer, and freelancer based in Indonesia. I'm interested in building things that live on the internet. Currently, I'm focused on building accessible, inclusive products and web experiences.
+I'm a software developer, web designer, and freelancer based in Indonesia. I'm interested in building things that live on the internet. Currently, I'm focused on building accessible, inclusive products and web experiences.
 
 ## 👨‍💻 Skills
 
