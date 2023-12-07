@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/lendradxx"><img src="https://u8views.com/api/v1/github/profiles/84779163/views/day-week-month-total-count.svg"></a>
 </p>
 
@@ -16,7 +16,7 @@
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=lendradxx&theme=react&show_icons=true&hide_border=true" />
 <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lendradxx&theme=react&layout=donut&langs_count=5&custom_title=Top%205%20Used%20Languages&hide_border=true" />
-</p>
+</p> -->
 
 <!--
 <p align="left">
@@ -39,11 +39,11 @@
 
 --- -->
 
----
+## <!--
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lendradxx&theme=react-dark&hide_border=true&radius=8&hide_title=true" align="center" />
-</p>
+</p> -->
 
 <!-- <p align="center">
   <a href="https://github.com/lendradxx">
