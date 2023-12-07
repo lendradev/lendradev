@@ -6,3 +6,11 @@
     </picture>
   </a>
 </p>
+
+# Hello there 👋
+
+<b>I'm Lendra</b> - I'm a software developer, web designer and freelancer based in Indonesia. I'm interested in building things that live on the internet. Currently, I'm focused on building accessible, inclusive products and web experiences.
+
+## 👨‍💻 Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://github.com/lendradxx)
