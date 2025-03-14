@@ -13,4 +13,4 @@
 
 ## 👨‍💻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,vue,js,ts,linux,git,github)](https://github.com/lendradxx)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,vue,js,ts,linux,git,githubwindows)](https://github.com/lendradxx)
