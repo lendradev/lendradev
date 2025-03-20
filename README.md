@@ -11,6 +11,8 @@
 
 <b>I'm Lendra</b>, a software developer, web developer, and freelancer based in Indonesia. I'm interested in building things that live on the internet. Currently, I'm focused on building accessible, inclusive products and web experiences.
 
+<!--
 ## 👨‍💻 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,vue,js,ts,linux,git,github,windows,docker)](https://github.com/lendradev)
+-->
