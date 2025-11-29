@@ -18,7 +18,7 @@
 -->
 
 ---
-<p align="center">
+<p>
   <a href="https://github.com/lendradev">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://roadmap.sh/card/wide/68f769e717747caa5a5c2d21?variant=dark">
