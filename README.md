@@ -26,3 +26,11 @@
     </picture>
   </a>
 </p>
+<p>
+  <a href="https://github.com/lendradev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=lendradev&theme=onedark">
+      <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=lendradev">
+    </picture>
+  </a>
+</p>
