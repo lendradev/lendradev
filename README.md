@@ -9,8 +9,7 @@
 
 # Hey there! 👋
 
-<b>I'm Lendra</b>, a software developer, web developer, and freelancer based in Indonesia. I'm interested in building things that live on the internet. Currently, I'm focused on building accessible, inclusive products and web experiences.
-
+Hi, I’m Lendra, a passionate programmer with a commitment to continuous learning and delivering quality solutions through technology.
 <!--
 ## 👨‍💻 Skills
 
