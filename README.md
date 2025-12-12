@@ -14,6 +14,9 @@ Hi, I’m Lendra, a passionate programmer with a commitment to continuous learni
 ## 👨‍💻 Skills
 [![My Skills](https://skillicons.dev/icons?i=angular,nestjs,nodejs,git,github,express,prisma,linux,docker)](https://github.com/lendradev)
 
+## 📊 Stats
+[![wakatime](https://wakatime.com/badge/user/b9a00aa4-8982-42da-85cb-bb26fc868a45.svg)](https://wakatime.com/@b9a00aa4-8982-42da-85cb-bb26fc868a45)(https://github.com/lendradev)
+
 ---
 
 <p align="center">
