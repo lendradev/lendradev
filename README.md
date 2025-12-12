@@ -10,11 +10,9 @@
 # Hey there! 👋
 
 Hi, I’m Lendra, a passionate programmer with a commitment to continuous learning and delivering quality solutions through technology.
-<!--
-## 👨‍💻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,vue,js,ts,linux,git,github,windows,docker)](https://github.com/lendradev)
--->
+## 👨‍💻 Skills
+[![My Skills](https://skillicons.dev/icons?i=angular,nest,node,git,github,express,prisma,linux,docker)](https://github.com/lendradev)
 
 ---
 
