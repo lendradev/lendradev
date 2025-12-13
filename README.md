@@ -16,6 +16,8 @@ Hi, I’m Lendra, a passionate programmer with a commitment to continuous learni
 
 ## 📊 Stats
 [![wakatime](https://wakatime.com/badge/user/b9a00aa4-8982-42da-85cb-bb26fc868a45.svg)](https://github.com/lendradev)
+[![visitor](https://komarev.com/ghpvc/?username=lendradev&styles=flat&label=PROFILE+VISITOR)](https://github.com/lendradev)
+
 
 ---
 
