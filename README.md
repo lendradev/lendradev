@@ -10,17 +10,15 @@
 # Hey there! 👋
 
 Hi, I’m Lendra, a passionate programmer with a commitment to continuous learning and delivering quality solutions through technology.
-<!-- <p>
+<p>
 ## 👨‍💻 Skills
 [![My Skills](https://skillicons.dev/icons?i=nodejs,git,react,vue,github,nestjs,prisma,linux,docker)](https://github.com/lendradev)
-
+  
 ## 📊 Stats
 [![wakatime](https://wakatime.com/badge/user/b9a00aa4-8982-42da-85cb-bb26fc868a45.svg)](https://github.com/lendradev)
 [![visitor](https://komarev.com/ghpvc/?username=lendradev&styles=flat&label=Profile+Visitor)](https://github.com/lendradev)
--->
 
----
-
+<!--
 <p align="center">
   <a href="https://github.com/lendradev">
     <picture>
@@ -30,7 +28,7 @@ Hi, I’m Lendra, a passionate programmer with a commitment to continuous learni
   </a>
 </p>
 
-<!-- <p>
+<p>
   <a href="https://github.com/lendradev">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://roadmap.sh/card/wide/68f769e717747caa5a5c2d21?variant=dark">
