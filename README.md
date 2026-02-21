@@ -12,6 +12,7 @@
 Hi, I’m Lendra, a passionate programmer with a commitment to continuous learning and delivering quality solutions through technology.
 <p>
 ## 👨‍💻 Skills
+  
 [![My Skills](https://skillicons.dev/icons?i=nodejs,git,react,vue,github,nestjs,prisma,linux,docker)](https://github.com/lendradev)
   
 ## 📊 Stats
