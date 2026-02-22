@@ -13,7 +13,7 @@ Hi, I’m Lendra, a passionate programmer with a commitment to continuous learni
   
 ## 👨‍💻 Skills
   
-[![My Skills](https://skillicons.dev/icons?i=nodejs,git,react,vue,github,nestjs,prisma,linux,docker)](https://github.com/lendradev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,git,react,vue,github,nestjs,prisma,linux,docker,redis,mongodb)](https://github.com/lendradev)
   
 ## 📊 Stats
 [![wakatime](https://wakatime.com/badge/user/b9a00aa4-8982-42da-85cb-bb26fc868a45.svg)](https://github.com/lendradev)
