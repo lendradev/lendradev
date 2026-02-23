@@ -9,7 +9,7 @@
 
 # Hey there! 👋
 
-Hello — I’m Lendra, a passionate programmer with a commitment to continuous learning and delivering quality solutions through technology.
+Hello — I’m Lendra, i'm a software engineer with a commitment to continuous learning and delivering quality solutions through technology.
   
 ## 👨‍💻 Skills
   
