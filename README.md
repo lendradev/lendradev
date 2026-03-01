@@ -1,11 +1,11 @@
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/lendradev">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lendradev/lendradev/blob/master/assets/banner-new-dark.png">
       <img alt="Banner" src="https://github.com/lendradxx/lendradev/blob/master/assets/banner-new-light.png">
     </picture>
   </a>
-</p>
+</p> -->
 
 # Hey there! 👋
 
