@@ -16,7 +16,7 @@ Hello — I’m Lendra, i'm a software engineer with a commitment to continuous 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,git,react,vue,github,nestjs,prisma,tailwind,linux,docker,redis,mongodb,postgres,mysql,laravel,php,python,flutter,tauri,golang,electron)](https://github.com/lendradev)
   
 ## 📊 Stats
-[![wakatime](https://wakatime.com/badge/user/b9a00aa4-8982-42da-85cb-bb26fc868a45.svg)](https://github.com/lendradev)
+[![wakatime](https://wakatime.com/badge/user/b9a00aa4-8982-42da-85cb-bb26fc868a45.svg)](https://wakatime.com/@lendradev)
 [![visitor](https://komarev.com/ghpvc/?username=lendradev&styles=flat&label=Profile+Visitor)](https://github.com/lendradev)
 
 <!--
