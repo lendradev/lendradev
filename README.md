@@ -13,7 +13,7 @@ Hello — I’m Lendra, i'm a software engineer with a commitment to continuous 
   
 ## 👨‍💻 Skills
   
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,git,docker)](https://github.com/lendradev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,git,docker,bun,nodejs,ts,js)](https://github.com/lendradev)
   
 ## 📊 Stats
 [![wakatime](https://wakatime.com/badge/user/b9a00aa4-8982-42da-85cb-bb26fc868a45.svg)](https://wakatime.com/@lendradev)
